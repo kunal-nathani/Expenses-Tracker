@@ -6,7 +6,7 @@ To visualize the monthly spending, we will use a Sankey Chart from Plotly.
 
 
 # Expense Tracker App
-
+#Live Preview: https://expensetrackers.streamlit.app/
 ## Overview
 
 The Expense Tracker App is a user-friendly, web-based application built using Streamlit, a Python library for creating interactive web applications, and a NoSQL database to help users manage their expenses efficiently. Whether you want to keep track of your personal finances or monitor your business expenses, this app provides a convenient and customizable solution.
