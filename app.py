@@ -8,9 +8,9 @@ from streamlit_option_menu import option_menu  # pip install streamlit-option-me
 import database as db  # local import
 
 # -------------- SETTINGS --------------
-incomes = ["Salary", "Blog", "Other Income"]
+incomes = ["Salary", "Side Income", "Other Income"]
 expenses = ["Rent", "Utilities", "Groceries", "Car", "Other Expenses", "Saving"]
-currency = "USD"
+currency = "Rupees"
 page_title = "Income and Expense Tracker"
 page_icon = ":money_with_wings:"  # emojis: https://www.webfx.com/tools/emoji-cheat-sheet/
 layout = "centered"
